@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Abiy
 
-<!--
-**abiy0747/abiy0747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a passionate Software Developer
+💻 Interested in Web Development, Programming, and Technology
+🚀 Always learning and improving my skills  
 
-Here are some ideas to get you started:
+🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🌱 Currently improving my  Full-Stack Development
+  💡 Love solving problems and building real projects
+  🎯 Goal: Become a Professional Software Engineer
+
+ 🌐 Connect With Me
+
+ 💼 LinkedIn:  
+  https://www.linkedin.com/in/abiy-tilahun-15b237354/
+
+  📲 Telegram:  
+   https://t.me/abiy_abena
+
+  📸 Instagram:  
+  https://www.instagram.com/abiy_abena/
+
+🛠️ Skills
+
+- 💻 Programming: C++, Java, JavaScript  
+- 🌐 Web: HTML, CSS, React  
+- 🗄️ Database: MySQL  
+
+📈 GitHub Stats
+
+⭐ Always working on improving my coding skills 
+🔥 Building projects and learning new technologies
+
+ ✨ “Keep Learning, Keep Building, Keep Growing.”
