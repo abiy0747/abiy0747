@@ -16,7 +16,7 @@
   https://www.linkedin.com/in/abiy-tilahun-15b237354/
 
   📲 Telegram:  
-   https://t.me/abiy_abena
+   https://t.me/abiy0747
 
   📸 Instagram:  
   https://www.instagram.com/abiy_abena/
